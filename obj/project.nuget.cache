@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DaXq2l/iN1GMWKBivy9EaA7VVMT+rZ1bBC+64a2H9ftri7MTo8VZV6YzfYhXFz/9bBz2mqh1iC3gEhc3e21+w==",
+  "success": true,
+  "projectFilePath": "/home/luan/Documents/repositorio/Docker/Docker.csproj",
+  "expectedPackageFiles": [
+    "/home/luan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/luan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/luan/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/luan/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/luan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/luan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
