@@ -18,3 +18,6 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "Docker.dll"]
+
+#docker build -t apidotnet .      
+#sudo docker run -p 8081:80 apidotnet
